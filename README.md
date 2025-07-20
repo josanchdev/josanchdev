@@ -1,78 +1,37 @@
-<!-- Soft gradient header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=89B4FA,AA89FA,B4BEFE&height=120&section=header" width="100%"/>
-</div>
+<!-- Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jorge%20@%20eclipse3k&fontAlign=40&fontAlignY=40&color=89B4FA&textBg=true&animation=fadeIn&desc=Code%2C%20Tinkering%2C%20and%20Endless%20Curiosity&descAlign=50&descAlignY=60&fontColor=CDD6F4&fontSize=40&descSize=20&backgroundColor=1E1E2E" />
 
 <h1 align="center">Hey, I'm Jorge 👋</h1>
 
-<p align="center">
-  🚀 AI tinkerer • 🧠 Neural net explorer • 🐧 Linux customizer  
-</p>
-
-<p align="center"><em>“I learn by building, and build to learn.”</em></p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 BSc in Computer Science @ URJC
-- 🏫 Student at Campus42 Madrid
-- 🇬🇧 C2 English | 🗣 Fluent communicator
-- 💼 Looking for AI-focused internship with real-world impact
-- 🎯 Goal: Master's in AI in the U.S.
-
-**Outside the terminal**, I enjoy:
-> ✈️ Traveling • 🍳 Cooking experiments • 🥊 Boxing • 📚 Books & 📺 chill
+<pre>
+jorge@eclipse3k
+-----------------------------
+🐧 OS: Arch Linux (btw)
+🎓 BSc Computer Science @ URJC
+🏫 Student @ 42 Madrid
+🧠 Goal: Master's in AI (U.S.)
+💬 Languages: English (C2), Spanish (Native), Korean (Beginner)
+📌 AI, Linux, and hands-on engineering
+</pre>
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Languages | Tools & IDEs | OS & WM |
-| --------- | ------------- | ------- |
-| C • Python • Java | VS Code • Vim | Arch Linux • Hyprland 🧩 |
-
-</div>
-
----
-
-## 🧠 Currently Learning
-
-- 🤖 Neural networks (Transformers, SSMs, Diffusion…)
-- 🛡️ Cybersecurity basics (just for fun 🧪)
+**Outside the terminal**, I enjoy:  
+> ✈️ Traveling • 🍳 Cooking experiments • 🥊 Boxing • 📖 Reading • 🏎️ Formula 1 • 📺 Series marathons
 
 ---
 
 ## 🏆 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Eclipse3k/RingDoor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eclipse3k&repo=RingDoor&theme=catppuccin_mocha" />
-        </a>
-        <p><strong>🔐 RingDoor</strong><br/>Secure IoT door access system using ESP32</p>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Eclipse3k/Qubic-Monitor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eclipse3k&repo=Qubic-Monitor&theme=catppuccin_mocha" />
-        </a>
-        <p><strong>⛓️ Qubic Monitor</strong><br/>Finalist @ Qubic x Vottun Hackathon — real-time blockchain alerts</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Eclipse3k/FudyAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eclipse3k&repo=FudyAI&theme=catppuccin_mocha" />
-        </a>
-        <p><strong>🍽️ Fudy AI</strong><br/>Snap a photo, get calories. AI-powered food insights. *(WIP)*</p>
-      </td>
-    </tr>
-  </table>
-</div>
+| Project           | Description                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------------- |
+| 🔐 **RingDoor**       | Access control system built on ESP32/Arduino — secure entry with multiple authentication methods. |
+| ⛓️ **Quibic-Monitor** | Finalist @ Qubic x Vottun Hackathon 2025 — real-time notifications for Qubic blockchain accounts. |
+| 🤖 **Fudy AI**         | Calorie counter powered by AI — take a photo of your food and get a nutrition estimate. *(WIP)*   |
+
+---
+
+> 💡 *Building cool stuff one repo at a time.*
 
 ---
 
@@ -80,23 +39,5 @@
 
 > 🧩 I have a handcrafted tiling setup running on Hyprland with Catppuccin, and yes — it's beautiful and efficient.
 
----
-
-## 📫 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-88C0D0?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-B48EAD?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-<!-- Footer wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=89B4FA,AA89FA,B4BEFE&height=120&section=footer"/>
-</div>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=89B4FA,AA89FA,B4BEFE&height=120&section=footer" />
