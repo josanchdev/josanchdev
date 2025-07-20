@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Always+building,+always+learning.;AI%2C+Linux,+and+hands-on+engineering+💡&center=true&width=600&height=45&color=89B4FA&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub!;Keep+Coding!" />
 </p>
 
 ---
