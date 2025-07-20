@@ -7,12 +7,13 @@
 
 ## 🏆 Featured Projects
 
-| Project        | Description                                                                                      |
-| -------------- | -----------------------------------------------------------------------------------------------|
+| Project           | Description                                                                                       |
+|------------------|---------------------------------------------------------------------------------------------------|
 | 🔐 **RingDoor**       | Access control system built on ESP32/Arduino — secure entry with multiple authentication methods. |
 | ⛓️ **Quibic-Monitor** | Finalist @ Qubic x Vottun Hackathon 2025 — real-time notifications for Qubic blockchain accounts. |
+| 🍽️ **Fudy AI**        | Calorie-counting taken to the next level — snap a photo of your food to get a smart estimate. *(Work in progress)* |
 
-> ✨ *Always experimenting, always shipping.*
+> 🛠️ *Building things I want to exist.*
 
 ---
 
