@@ -3,10 +3,6 @@
   🚀 AI enthusiast • 🧠 Neural networks tinkerer • 🐧 Custom Linux setups fan
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JorgeDoesStuff/README-assets/main/static-banner.svg" alt="Static Welcome Banner" width="600" />
-</p>
-
 ---
 
 ## 🏆 Featured Projects
