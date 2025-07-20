@@ -1,55 +1,60 @@
-Hi, Jorge here 👋
-Welcome to my GitHub! I'm passionate about AI, custom Linux setups, and hands-on engineering challenges—from hardware to neural networks. Here's a bit about me and what you’ll find here.
+<h1 align="center">Hey, I'm Jorge 👋</h1>
+<p align="center">
+  🚀 AI enthusiast • 🧠 Neural networks tinkerer • 🐧 Custom Linux setups fan
+</p>
 
-🏆 Projects
-Project	Description
-RingDoor	Complete access control solution built on ESP32/Arduino—secure entry with multiple auth methods.
-Quibic-Monitor	Finalist at Qubic x Vottun Madrid 2025 Hackathon—real-time monitoring & notifications for Qubic blockchain accounts.
-⚡ Tech Stack & Tools
-Languages: C, Python, Java
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Always+building,+always+learning.;AI%2C+Linux,+and+hands-on+engineering+💡&center=true&width=600&height=45&color=89B4FA&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</p>
 
-Workflow: VS Code (primary), Vim (for quick edits & small projects)
+---
 
-Platform: Arch Linux (Hyprland)—fully handcrafted setup (no one-click configs!)
+## 🏆 Featured Projects
 
-🚀 Learning & Aspirations
-Exploring the latest in neural networks and AI advancements
+| Project | Description |
+|--------|-------------|
+| 🔐 **RingDoor** | Access control system built on ESP32/Arduino—secure entry with multiple auth methods. |
+| ⛓️ **Quibic-Monitor** | Finalist @ Qubic x Vottun Hackathon 2025—real-time notifications for Qubic blockchain accounts. |
 
-Delving into cybersecurity techniques (it’s a curiosity, not my main focus)
+> ✨ *Always experimenting, always shipping.*
 
-Actively seeking an AI-focused internship to work on real-world projects
+---
+
+## ⚙️ Tech Stack & Tools
+
+```bash
+Languages:     C • Python • Java
+IDE/Editor:    VS Code (primary) • Vim (for quick hacking)
+OS & WM:       Arch Linux • Hyprland (custom handcrafted tiling setup 🧩)
+
+🚀 Currently Learning
+🧠 Neural networks & AI research (Transformers, SSMs, Diffusion...)
+
+🛡️ Cybersecurity basics (just out of curiosity 🧪)
+
+💼 Looking for: AI-focused internship to work on impactful real-world projects
 
 🎓 Education
-BSc Computer Science at URJC
+🎓 BSc Computer Science – URJC
 
-Student at Campus42 Madrid
+🏫 Student @ Campus42 Madrid
 
-C2 English Level
+🇬🇧 C2 English level
 
-Ambition: Pursue a master’s degree in AI in the US
+🎯 Goal: Pursue a Master's in AI in the US
 
 🧑‍🎨 About Me
-I love traveling, experimenting in the kitchen, unwinding with TV, boxing, and reading
+Outside of code, I enjoy:
 
-(Looking for an inspiring quote... but maybe you have a suggestion?)
+✈️ Traveling
 
-📎 Links
-You'll find my key links below the profile. Connect if you want to chat tech, collaborate, or exchange ideas!
+🍳 Cooking experiments
 
-“The best way to predict the future is to invent it.” — Alan Kay
+🥊 Boxing
 
-Thanks for stopping by! 🚀
-<!--
-**Eclipse3k/Eclipse3k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Reading
 
-Here are some ideas to get you started:
+📺 Relaxing with a good show
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"The best way to predict the future is to invent it." — Alan Kay
+(Got a better quote? Let me know 👀)
