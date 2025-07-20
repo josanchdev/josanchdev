@@ -1,69 +1,106 @@
+<!-- Header with wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=89B4FA&height=100&section=header"/>
+</div>
+
 <h1 align="center">Hey, I'm Jorge 👋</h1>
+
 <p align="center">
-🚀 AI enthusiast • 🧠 Neural networks tinkerer • 🐧 Custom Linux setups fan
+  🚀 AI enthusiast • 🧠 Neural networks tinkerer • 🐧 Custom Linux setups fan
 </p>
+
+<p align="center">
+  <em>“I learn by building, and build to learn.”</em>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science student @ URJC
+- 🏫 Currently studying at Campus42 Madrid
+- 🇬🇧 C2 English level
+- 🎯 Goal: Pursue a Master's in AI in the US
+- 💼 Seeking an AI-focused internship with real-world impact
+
+**Outside of code, I enjoy:**
+
+> ✈️ Traveling • 🍳 Cooking experiments • 🥊 Boxing • 📚 Reading • 📺 Relaxing with a good show
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+| Languages | Tools & IDEs | OS & WM |
+| --------- | ------------- | ------- |
+| C • Python • Java | VS Code • Vim | Arch Linux • Hyprland |
+
+</div>
+
+---
+
+## 🧠 Currently Exploring
+
+- 🤖 Neural networks & AI research (Transformers, SSMs, Diffusion...)
+- 🛡️ Cybersecurity fundamentals (just out of curiosity 🧪)
 
 ---
 
 ## 🏆 Featured Projects
 
-| Project | Description |
-|------------------|---------------------------------------------------------------------------------------------------|
-| 🔐 **RingDoor** | Access control system built on ESP32/Arduino — secure entry with multiple authentication methods. |
-| ⛓️ **Quibic-Monitor** | Finalist @ Qubic x Vottun Hackathon 2025 — real-time notifications for Qubic blockchain accounts. |
-| 🍽️ **Fudy AI** | Calorie-counting taken to the next level — snap a photo of your food to get a smart estimate. *(Work in progress)* |
-
-> 🛠️ *Building things I want to exist.*
-
----
-
-## ⚙️ Tech Stack & Tools
-
-| Category | Details |
-| ------------ | ----------------------------------- |
-| **Languages**| C • Python • Java |
-| **Editors** | VS Code (primary) • Vim (quick hacks) |
-| **OS & WM** | Arch Linux • Hyprland (custom handcrafted tiling 🧩) |
-
----
-
-## 🚀 Currently Learning
-
-- Neural networks & AI research (Transformers, SSMs, Diffusion...)
-- Cybersecurity basics (just out of curiosity 🧪)
-
----
-
-## 💼 Looking for
-
-AI-focused internship to work on impactful real-world projects.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Eclipse3k/RingDoor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eclipse3k&repo=RingDoor&theme=catppuccin_mocha" />
+        </a>
+        <p><strong>🔐 RingDoor</strong><br/>IoT access control system using ESP32 & Arduino</p>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/Eclipse3k/Qubic-Monitor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eclipse3k&repo=Qubic-Monitor&theme=catppuccin_mocha" />
+        </a>
+        <p><strong>⛓️ Qubic Monitor</strong><br/>Finalist @ Qubic x Vottun Hackathon — real-time blockchain alerts</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/Eclipse3k/FudyAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eclipse3k&repo=FudyAI&theme=catppuccin_mocha" />
+        </a>
+        <p><strong>🍽️ Fudy AI</strong><br/>Calorie-counting via food image analysis (WIP)</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-- BSc Computer Science – [URJC](https://www.urjc.es)
-- Student @ [Campus42 Madrid](https://campus42.com/madrid)
-
----
-
-## 🧑‍🎨 About Me
-
-Outside of code, I enjoy:
-
-- ✈️ Traveling
-- 🍳 Cooking experiments
-- 🥊 Boxing
-- 📚 Reading
-- 📺 Relaxing with a good show
-
-> *"The best way to predict the future is to invent it."* — Alan Kay
-> *(Got a better quote? Let me know 👀)*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eclipse3k&show_icons=true&theme=catppuccin_mocha&hide=contribs&count_private=true" />
+</div>
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- Email: your.email@example.com
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-B6BFE2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=89B4FA&height=100&section=footer"/>
+</div>
