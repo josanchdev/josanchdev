@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/username/yourrepo/main/assets/animated-gradient.svg" alt="Welcome SVG" width="600" />
+    <img src="https://yourdomain.com/banner.gif" alt="Intro Banner" width="600" />
 </p>
 
 ---
