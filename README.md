@@ -3,9 +3,11 @@
   🚀 AI enthusiast • 🧠 Neural networks tinkerer • 🐧 Custom Linux setups fan
 </p>
 
-<p align="center">
-    <img src="https://yourdomain.com/banner.gif" alt="Intro Banner" width="600" />
-</p>
+<h2 align="center">
+  🚀 Welcome to my GitHub!<br/>
+  Always building, always learning.<br/>
+  AI, Linux, and hands-on engineering 💡
+</h2>
 
 ---
 
