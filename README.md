@@ -26,6 +26,7 @@
 Languages:     C • Python • Java
 IDE/Editor:    VS Code (primary) • Vim (for quick hacking)
 OS & WM:       Arch Linux • Hyprland (custom handcrafted tiling setup 🧩)
+```
 
 🚀 Currently Learning
 🧠 Neural networks & AI research (Transformers, SSMs, Diffusion...)
