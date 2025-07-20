@@ -32,13 +32,13 @@ archlinux@jorge
 
 ---
 
-> 💡 *Building cool stuff one repo at a time.*
+ 💡 *Building cool stuff one repo at a time.*
 
 ---
 
 ## 🔮 Fun Fact
 
-> 🧩 I have a handcrafted tiling setup running on Hyprland with Catppuccin, and yes — it's beautiful and efficient.
+ 🧩 I have a handcrafted tiling setup running on Hyprland with Catppuccin, and yes — it's beautiful and efficient.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%" />
