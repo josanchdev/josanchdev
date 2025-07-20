@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Welcome+to+my+GitHub!;Keep+Coding!" />
+    <img src="https://media.giphy.com/media/3o7TKsQH2VXc1rKSTq/giphy.gif" alt="Animated Gradient" width="600"/>
 </p>
 
 ---
