@@ -11,10 +11,10 @@
 
 ## 🏆 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🔐 **RingDoor** | Access control system built on ESP32/Arduino—secure entry with multiple auth methods. |
-| ⛓️ **Quibic-Monitor** | Finalist @ Qubic x Vottun Hackathon 2025—real-time notifications for Qubic blockchain accounts. |
+| Project        | Description                                                                                      |
+| -------------- | -----------------------------------------------------------------------------------------------|
+| 🔐 **RingDoor**       | Access control system built on ESP32/Arduino — secure entry with multiple authentication methods. |
+| ⛓️ **Quibic-Monitor** | Finalist @ Qubic x Vottun Hackathon 2025 — real-time notifications for Qubic blockchain accounts. |
 
 > ✨ *Always experimenting, always shipping.*
 
@@ -22,40 +22,51 @@
 
 ## ⚙️ Tech Stack & Tools
 
-```bash
-Languages:     C • Python • Java
-IDE/Editor:    VS Code (primary) • Vim (for quick hacking)
-OS & WM:       Arch Linux • Hyprland (custom handcrafted tiling setup 🧩)
-```
+| Category     | Details                               |
+| ------------ | ----------------------------------- |
+| **Languages**| C • Python • Java                    |
+| **Editors**  | VS Code (primary) • Vim (quick hacks) |
+| **OS & WM**  | Arch Linux • Hyprland (custom handcrafted tiling 🧩) |
 
-🚀 Currently Learning
-🧠 Neural networks & AI research (Transformers, SSMs, Diffusion...)
+---
 
-🛡️ Cybersecurity basics (just out of curiosity 🧪)
+## 🚀 Currently Learning
 
-💼 Looking for: AI-focused internship to work on impactful real-world projects
+- Neural networks & AI research (Transformers, SSMs, Diffusion...)
+- Cybersecurity basics (just out of curiosity 🧪)
 
-🎓 Education
-🎓 BSc Computer Science – URJC
+---
 
-🏫 Student @ Campus42 Madrid
+## 💼 Looking for
 
-🇬🇧 C2 English level
+AI-focused internship to work on impactful real-world projects.
 
-🎯 Goal: Pursue a Master's in AI in the US
+---
 
-🧑‍🎨 About Me
+## 🎓 Education
+
+- BSc Computer Science – [URJC](https://www.urjc.es)
+- Student @ [Campus42 Madrid](https://campus42.com/madrid)
+
+---
+
+## 🧑‍🎨 About Me
+
 Outside of code, I enjoy:
 
-✈️ Traveling
+- ✈️ Traveling  
+- 🍳 Cooking experiments  
+- 🥊 Boxing  
+- 📚 Reading  
+- 📺 Relaxing with a good show  
 
-🍳 Cooking experiments
+> *"The best way to predict the future is to invent it."* — Alan Kay  
+> *(Got a better quote? Let me know 👀)*
 
-🥊 Boxing
+---
 
-📚 Reading
+## 📫 How to reach me
 
-📺 Relaxing with a good show
-
-"The best way to predict the future is to invent it." — Alan Kay
-(Got a better quote? Let me know 👀)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [Twitter](https://twitter.com/yourhandle)  
+- Email: your.email@example.com
