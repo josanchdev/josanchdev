@@ -9,7 +9,7 @@ archlinux@jorge
 -----------------------------
 🐧 OS: Arch Linux
 🎓 BSc Computer Science @ URJC
-🏫 Student @ 42 Madrid
+⚡ Student @ 42 Madrid
 🧠 Goal: Master's in AI (U.S.)
 💬 Languages: English (C2), Spanish (Native), Korean (Beginner)
 📌 AI, Linux, and hands-on engineering
@@ -18,7 +18,7 @@ archlinux@jorge
 ---
 
 **Outside the terminal**, I enjoy:  
- ✈️ Traveling • 🍳 Cooking experiments • 🥊 Boxing • 📖 Reading • 🏎️ Formula 1 • 📺 unwinding with TV
+ ✈️ Traveling • 🍳 Cooking experiments • 🥊 Boxing • 📚 Reading • 🏎️ Formula 1 • 📺 unwinding with TV
 
 ---
 
