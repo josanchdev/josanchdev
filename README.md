@@ -3,11 +3,9 @@
   🚀 AI enthusiast • 🧠 Neural networks tinkerer • 🐧 Custom Linux setups fan
 </p>
 
-<h2 align="center">
-  🚀 Welcome to my GitHub!<br/>
-  Always building, always learning.<br/>
-  AI, Linux, and hands-on engineering 💡
-</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JorgeDoesStuff/README-assets/main/static-banner.svg" alt="Static Welcome Banner" width="600" />
+</p>
 
 ---
 
