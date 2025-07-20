@@ -1,12 +1,13 @@
-<!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jorge%20@%20eclipse3k&fontAlign=40&fontAlignY=40&color=89B4FA&textBg=true&animation=fadeIn&desc=Code%2C%20Tinkering%2C%20and%20Endless%20Curiosity&descAlign=50&descAlignY=60&fontColor=CDD6F4&fontSize=40&descSize=20&backgroundColor=1E1E2E" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
 
+  
 <h1 align="center">Hey, I'm Jorge 👋</h1>
 
 <pre>
-jorge@eclipse3k
+archlinux@jorge
 -----------------------------
-🐧 OS: Arch Linux (btw)
+🐧 OS: Arch Linux
 🎓 BSc Computer Science @ URJC
 🏫 Student @ 42 Madrid
 🧠 Goal: Master's in AI (U.S.)
@@ -39,5 +40,6 @@ jorge@eclipse3k
 
 > 🧩 I have a handcrafted tiling setup running on Hyprland with Catppuccin, and yes — it's beautiful and efficient.
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=89B4FA,AA89FA,B4BEFE&height=120&section=footer" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%" />
+</div>
