@@ -4,16 +4,16 @@
   
 <h1 align="center">Hey, I'm Jorge 👋</h1>
 
-<pre>
-┌─[archlinux@jorge]─[~]
-└──╼
-🐧 Arch Linux / 🪟 Windows
-🎓 BSc Computer Science @ URJC
-⚡ Student @ 42 Madrid
-🧠 Goal: Master's in AI (U.S.)
-💬 English (C2), Spanish (Native), Korean (Beginner)
-📌 AI, Linux, and hands-on engineering
-</pre>
+      archlinux@jorge
+      ┌────────────────────────────────────────┐
+      │   🐧 Arch Linux / 🪟 Windows           │
+      │   🎓 BSc CS @ URJC                    │
+      │   ⚡ Student @ 42 Madrid               │
+      │   🧠 Goal: Master's in AI (U.S.)      │
+      │   💬 EN (C2), ES (Native), KR (Beg)   │
+      │   📌 AI, Linux, hands-on engineering   │
+      └────────────────────────────────────────┘
+
 
 ---
 
