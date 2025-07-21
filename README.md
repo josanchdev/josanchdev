@@ -4,7 +4,7 @@ I'm Jorge, a Computer Science student at [**@Universidad Rey Juan Carlos**](http
 
 I thrive by learning through building real-world projects—especially in AI, Linux, and algorithms—and I love the unique energy that comes from hackathons. My approach is hands-on and collaborative, always seeking new challenges that push me to grow.
 
-Beyond coding, I enjoy traveling, cooking, music, reading, picking up new languages, and unwinding with a good TV show or a bit of Formula 1. Always curious and eager to develop, I’m focused on creating intelligent solutions and connecting with creative, motivated people along the way.
+Beyond coding, I enjoy traveling, cooking, music, reading, picking up new languages, and unwinding with a good TV show or a bit of Formula 1.
 
 Fun fact: I run a handcrafted tiling window manager setup on Hyprland, themed with Catppuccin—beautiful, efficient, and always customized to my workflow.
 
