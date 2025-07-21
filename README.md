@@ -1,13 +1,11 @@
-<h1 align="center">Hi there👋</h1>
-
-
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 <pre>
+ 
 archlinux@jorge
 -----------------------------
 🐧 Arch Linux / 🪟 Windows
-🎓 Computer Science student @ URJC
-⚡ Programming Student @ Campus 42 Madrid
-🧠 Goal: Master's degree in AI (USA)
+🎓 Computer Science student at [**@URJC**](https://www.urjc.es/)
+⚡ Programming Student at [**@42 Madrid**](https://www.42madrid.com/)
 📌 AI, Linux, Algorithms, Hackathons
 💬 English (C2), Spanish (Native), Korean (Beginner)
 </pre>
