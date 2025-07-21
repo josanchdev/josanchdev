@@ -4,12 +4,9 @@ I'm Jorge, a Computer Science student at [**@Universidad Rey Juan Carlos**](http
 
 I thrive by learning through building real-world projects—especially in AI, Linux, and algorithms—and I love the unique energy that comes from hackathons. My approach is hands-on and collaborative, always seeking new challenges that push me to grow.
 
-Beyond coding, I enjoy traveling, cooking, music, reading, picking up new languages, and unwinding with a good TV show or a bit of Formula 1.
+Beyond coding, I love traveling, trying new recipes, reading, listening to music, learning languages, and relaxing with a good TV show or some Formula 1.
 
----
-### 💡 Fun Fact
-I run a handcrafted tiling window manager setup on Hyprland, themed with Catppuccin—beautiful, efficient, and always customized to my workflow.
-
+Fun fact: I run a handcrafted tiling window manager setup on Hyprland, themed with Catppuccin—beautiful, efficient, and always customized to my workflow.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/jorge-sanchez-aguilar/)
