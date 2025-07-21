@@ -29,7 +29,8 @@ archlinux@jorge
 | ----------------- | ------------------------------------------------------------------------------------------------- |
 | 🔐 **RingDoor**       | Access control system built on ESP32/Arduino — secure entry with multiple authentication methods. |
 | ⛓️ **Quibic-Monitor** | Finalist @ Qubic x Vottun Hackathon 2025 — real-time notifications for Qubic blockchain accounts. |
-| 🤖 **Fudy AI**         | Calorie counter powered by AI — take a photo of your food and get a nutrition estimate. *(WIP)*   |
+| 🤖 **Fudy AI**        | Calorie counter powered by AI — take a photo of your food and get a nutrition estimate. *(WIP)*   |
+| 🎓 **42 Projects**    | Collection of my projects completed at 42 Madrid — covering C, shell scripting, and more.         |
 
 ---
 
