@@ -19,7 +19,7 @@ archlinux@jorge
 ---
 
 **Outside the terminal**, I enjoy:  
- ✈️ Traveling • 🍳 Cooking • 🎵 Music • 📚 Reading • 🧠 Learning languages • 📺 Unwinding with TV • F1
+ ✈️ Traveling • 🍳 Cooking • 🎵 Music • 📚 Reading • 🧠 Learning languages • 📺 Unwinding with TV • 🏁 F1
 
 ---
 
