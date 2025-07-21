@@ -1,7 +1,5 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<pre>
- 
 archlinux@jorge
 -----------------------------
 🐧 Arch Linux / 🪟 Windows
@@ -9,7 +7,7 @@ archlinux@jorge
 ⚡ Programming Student at [**@42 Madrid**](https://www.42madrid.com/)
 📌 AI, Linux, Algorithms, Hackathons
 💬 English (C2), Spanish (Native), Korean (Beginner)
-</pre>
+
 
 
 ---
