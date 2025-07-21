@@ -8,8 +8,8 @@
 archlinux@jorge
 -----------------------------
 🐧 Arch Linux / 🪟 Windows
-🎓 BSc Computer Science @ URJC
-⚡ Student @ Campus 42 Madrid
+🎓 Computer Science student @ URJC
+⚡ Programming Student @ Campus 42 Madrid
 🧠 Goal: Master's degree in AI (USA)
 📌 AI, Linux, Algorithms, Hackathons
 💬 English (C2), Spanish (Native), Korean (Beginner)
