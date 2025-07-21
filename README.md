@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
-
-<h1 align="center">Hey, I'm Jorge 👋</h1>
+<h1 align="center">Hi there👋</h1>
 
 
 <pre>
@@ -30,7 +27,3 @@ archlinux@jorge
 ## 🔮 Fun Fact
 
  🧩 I have a handcrafted tiling setup running on Hyprland with Catppuccin, and yes — it's beautiful and efficient.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%" />
-</div>
