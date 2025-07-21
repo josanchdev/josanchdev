@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
 
-  
 <h1 align="center">Hey, I'm Jorge 👋</h1>
+
 
 <pre>
 archlinux@jorge
@@ -14,6 +14,7 @@ archlinux@jorge
 💬 English (C2), Spanish (Native), Korean (Beginner)
 📌 AI, Linux, and hands-on engineering
 </pre>
+
 
 ---
 
