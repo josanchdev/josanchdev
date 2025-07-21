@@ -4,8 +4,6 @@
   
 <h1 align="center">Hey, I'm Jorge 👋</h1>
 
-<p align="center">● ● ● ● ● ● ● ● ● ● ● ●</p>
-
 <pre>
 archlinux@jorge
 -----------------------------
@@ -16,10 +14,6 @@ archlinux@jorge
 💬 English (C2), Spanish (Native), Korean (Beginner)
 📌 AI, Linux, and hands-on engineering
 </pre>
-
-<p align="center">● ● ● ● ● ● ● ● ● ● ● ●</p>
-
-
 
 ---
 
