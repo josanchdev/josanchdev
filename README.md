@@ -1,26 +1,12 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-archlinux@jorge
------------------------------
-🐧 Arch Linux / 🪟 Windows
-🎓 Computer Science student at [**@URJC**](https://www.urjc.es/)
-⚡ Programming Student at [**@42 Madrid**](https://www.42madrid.com/)
-📌 AI, Linux, Algorithms, Hackathons
-💬 English (C2), Spanish (Native), Korean (Beginner)
+I'm Jorge, a Computer Science student at Universidad Rey Juan Carlos and a programmer at 42 Madrid, an innovative peer-to-peer coding campus. I’m passionate about artificial intelligence and fascinated by how technology shapes everyday life.
 
+I thrive by learning through building real-world projects—especially in AI, Linux, and algorithms—and I love the unique energy that comes from hackathons. My approach is hands-on and collaborative, always seeking new challenges that push me to grow.
 
+Beyond coding, I enjoy traveling, cooking, music, reading, picking up new languages, and unwinding with a good TV show or a bit of Formula 1. Always curious and eager to develop, I’m focused on creating intelligent solutions and connecting with creative, motivated people along the way.
 
----
+Fun fact: I run a handcrafted tiling window manager setup on Hyprland, themed with Catppuccin—beautiful, efficient, and always customized to my workflow.
 
-**Outside the terminal**, I enjoy:  
- ✈️ Traveling • 🍳 Cooking • 🎵 Music • 📚 Reading • 🧠 Learning languages • 📺 Unwinding with TV • 🏁 F1
-
----
-
- 💡 *Building cool stuff one repo at a time.*
-
----
-
-## 🔮 Fun Fact
-
- 🧩 I have a handcrafted tiling setup running on Hyprland with Catppuccin, and yes — it's beautiful and efficient.
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/jorge-sanchez-aguilar/)
