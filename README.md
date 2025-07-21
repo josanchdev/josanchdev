@@ -11,8 +11,8 @@ archlinux@jorge
 🎓 BSc Computer Science @ URJC
 ⚡ Student @ Campus 42 Madrid
 🧠 Goal: Master's degree in AI (USA)
-💬 English (C2), Spanish (Native), Korean (Beginner)
 📌 AI, Linux, Algorithms, Hackathons
+💬 English (C2), Spanish (Native), Korean (Beginner)
 </pre>
 
 
