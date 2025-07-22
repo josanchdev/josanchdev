@@ -10,3 +10,5 @@ Fun fact: I run a handcrafted tiling window manager setup on Hyprland, themed wi
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/jorge-sanchez-aguilar/)
+
+[![josanch2's 42 stats](https://badge.mediaplus.ma/darkblue/josanch2)](https://github.com/oakoudad/badge42)
