@@ -6,7 +6,7 @@ I thrive on building real-world projects in AI, Linux, and algorithms, and I lov
 
 Beyond coding, I love traveling, trying new recipes, reading, listening to music, learning languages, and relaxing with a good TV show or some Formula 1.
 
-Fun fact: I run a handcrafted tiling window manager setup on Hyprland, themed with Catppuccin—beautiful, efficient, and always customized to my workflow.
+Fun fact: I’ve built a fully customized Hyprland tiling window manager setup, themed with Catppuccin for both efficiency and aesthetics.
 
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/jorge-sanchez-aguilar/)
