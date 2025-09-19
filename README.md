@@ -1,6 +1,8 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Jorge, currently working in the AI department at [@Ferrovial](https://www.ferrovial.com/) while completing my Computer Science degree at [**URJC**](https://www.urjc.es/) and programming at [**42 Madrid**](https://www.42madrid.com/).  
+I'm Jorge, currently working in the AI department at [@Ferrovial](https://www.ferrovial.com/) while completing my Computer Science degree at [**URJC**](https://www.urjc.es/) and programming at [**42 Madrid**](https://www.42madrid.com/).
+
+At Ferrovial, I’m working on projects that apply AI to real-world infrastructure challenges, combining my academic background with practical industry experience.
 
 I thrive on building real-world projects in AI, Linux, and algorithms, and I love the unique energy of hackathons. My approach is hands-on and collaborative, always looking for challenges that push me to grow.
 
