@@ -9,6 +9,6 @@ Beyond coding, I love traveling, trying new recipes, reading, listening to music
 Fun fact: I’ve built a fully customized Hyprland tiling window manager setup, themed with Catppuccin for both efficiency and aesthetics.
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/jorge-sanchez-aguilar/)
+[LinkedIn](https://www.linkedin.com/in/jorge-sanchez-aguilar/)
 
 [![josanch2's 42 stats](https://badge.mediaplus.ma/darkblue/josanch2)](https://github.com/oakoudad/badge42)
