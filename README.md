@@ -2,7 +2,7 @@
 
 I'm Jorge, currently working in the AI department at [@Ferrovial](https://www.ferrovial.com/) while completing my Computer Science degree at [**URJC**](https://www.urjc.es/) and programming at [**42 Madrid**](https://www.42madrid.com/).  
 
-I thrive by learning through building real-world projects—especially in AI, Linux, and algorithms—and I love the unique energy that comes from hackathons. My approach is hands-on and collaborative, always seeking new challenges that push me to grow.
+I thrive on building real-world projects in AI, Linux, and algorithms, and I love the unique energy of hackathons. My approach is hands-on and collaborative, always looking for challenges that push me to grow.
 
 Beyond coding, I love traveling, trying new recipes, reading, listening to music, learning languages, and relaxing with a good TV show or some Formula 1.
 
