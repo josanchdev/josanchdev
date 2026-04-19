@@ -31,5 +31,3 @@ Formula 1, long walks, and figuring out how to cook something I've never made be
 #### Let's connect
 
 > [Resume](./Jorge_Sanchez_Aguilar_Resume_2026.pdf) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/josanchdev/)
-
-[![josanch2's 42 stats](https://badge.mediaplus.ma/darkblue/josanch2)](https://github.com/oakoudad/badge42)
